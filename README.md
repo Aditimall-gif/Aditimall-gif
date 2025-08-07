@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Mea
 
 - 🔭 I’m currently working on [🌿 GreenArray: Cultivating a Greener Tomorrow](https://lustrous-banoffee-694ef6.netlify.app/)  
 - 🌱 I’m currently learning **App Development, React, Node, Express, MongoDB**  
@@ -23,9 +23,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:aditimall9695@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+  📧 <a href="mailto:aditimall9695@gmail.com">aditimall9695@gmail.com</a><br>
   <a href="https://www.linkedin.com/in/aditi-mall-27658b28a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
