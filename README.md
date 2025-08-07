@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aditi Mall</h1>
 <h3 align="center">A passionate Frontend Developer | Android App Developer | C Programmer</h3>
 
@@ -57,6 +58,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 🏆 Achievements & Contributions
+
+<img src="https://github.com/user-attachments/assets/c20dd437-d297-4275-9ca8-b34fe9bdcc6e" alt="Achievement Badge 1" width="200"/>  
+<img src="https://github.com/user-attachments/assets/f0f8a9d9-4fa4-4af4-b871-84f7c7272852" alt="Achievement Badge 2" width="200"/>  
 
 ---
 
