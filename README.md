@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditi Mall</h1>
-<h3 align="center">MERN Stack & Java Developer | AI & DevOps Enthusiast</h3>
+<h3 align="center">Frontend Developer | C++ Programmer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Exploring+AI+%26+DevOps;Full+Stack+Web+Developer;Java+DSA+Practitioner;Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Passionate+Frontend+Developer;C%2B%2B+%26+DSA+Practitioner;Exploring+Web+Development;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ### 🚀 Tech Stack
 
-- 💻 **Languages:** JavaScript, C, C++, Python, Java  
+- 💻 **Languages:** C++, JavaScript, Python, C  
 - 🌐 **Frontend:** HTML, CSS, JavaScript  
 - 🛠️ **Tools & Platforms:** Git, GitHub, VS Code  
 - ☁️ **Currently Exploring:** React.js, App Development  
